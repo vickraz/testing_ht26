@@ -15,6 +15,11 @@ run/main_scene="uid://bq4fjs7rlypen"
 config/features=PackedStringArray("4.4", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[layer_names]
+
+2d_physics/layer_1="Player"
+2d_physics/layer_2="Enemy"
+
 [rendering]
 
 renderer/rendering_method="gl_compatibility"
